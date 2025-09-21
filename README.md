@@ -1,3 +1,3 @@
 # ASIC_Design
- by Shwetank Shekhar
+ by Deeptanshu Bhattacharya
  for ASIC Design University Course 
